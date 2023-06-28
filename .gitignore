@@ -1,0 +1,8 @@
+.dir-locals.el
+dist-newstyle/
+*.aux
+*.hp
+*.prof
+*.ps
+newdist/
+

@@ -1,0 +1,7 @@
+packages: hello-http.cabal
+
+source-repository-package
+  type: git
+  location: https://github.com/soupi/Spock.git
+  tag: d0b51fa60a83bfa5c1b5fc8fced18001e7321701
+  subdir: Spock-core
